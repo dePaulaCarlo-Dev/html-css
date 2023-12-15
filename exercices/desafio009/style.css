@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+   text-align: center;
+}
+#image  {
+    position: relative;
+    top: 50px;
+    left: 430px;
+}
+
+#image1 {
+    position: relative;
+    top: 80px;
+    left: 430px;
+}
+
+#image2 {
+    position: relative;
+    bottom: 280px;
+    left: 760px;
+}
+
+#image3 {
+    position: relative;
+    bottom: 260px;
+    left: 760px;
+}
+a {
+    color: aliceblue;
+}
